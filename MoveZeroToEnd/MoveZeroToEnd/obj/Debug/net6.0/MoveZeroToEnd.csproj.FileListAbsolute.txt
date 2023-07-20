@@ -1,0 +1,15 @@
+E:\leetProblems\MoveZeroToLast\MoveZero-s\MoveZeroToEnd\MoveZeroToEnd\obj\Debug\net6.0\MoveZeroToEnd.csproj.AssemblyReference.cache
+E:\leetProblems\MoveZeroToLast\MoveZero-s\MoveZeroToEnd\MoveZeroToEnd\obj\Debug\net6.0\MoveZeroToEnd.GeneratedMSBuildEditorConfig.editorconfig
+E:\leetProblems\MoveZeroToLast\MoveZero-s\MoveZeroToEnd\MoveZeroToEnd\obj\Debug\net6.0\MoveZeroToEnd.AssemblyInfoInputs.cache
+E:\leetProblems\MoveZeroToLast\MoveZero-s\MoveZeroToEnd\MoveZeroToEnd\obj\Debug\net6.0\MoveZeroToEnd.AssemblyInfo.cs
+E:\leetProblems\MoveZeroToLast\MoveZero-s\MoveZeroToEnd\MoveZeroToEnd\obj\Debug\net6.0\MoveZeroToEnd.csproj.CoreCompileInputs.cache
+E:\leetProblems\MoveZeroToLast\MoveZero-s\MoveZeroToEnd\MoveZeroToEnd\bin\Debug\net6.0\MoveZeroToEnd.exe
+E:\leetProblems\MoveZeroToLast\MoveZero-s\MoveZeroToEnd\MoveZeroToEnd\bin\Debug\net6.0\MoveZeroToEnd.deps.json
+E:\leetProblems\MoveZeroToLast\MoveZero-s\MoveZeroToEnd\MoveZeroToEnd\bin\Debug\net6.0\MoveZeroToEnd.runtimeconfig.json
+E:\leetProblems\MoveZeroToLast\MoveZero-s\MoveZeroToEnd\MoveZeroToEnd\bin\Debug\net6.0\MoveZeroToEnd.dll
+E:\leetProblems\MoveZeroToLast\MoveZero-s\MoveZeroToEnd\MoveZeroToEnd\bin\Debug\net6.0\MoveZeroToEnd.pdb
+E:\leetProblems\MoveZeroToLast\MoveZero-s\MoveZeroToEnd\MoveZeroToEnd\obj\Debug\net6.0\MoveZeroToEnd.dll
+E:\leetProblems\MoveZeroToLast\MoveZero-s\MoveZeroToEnd\MoveZeroToEnd\obj\Debug\net6.0\refint\MoveZeroToEnd.dll
+E:\leetProblems\MoveZeroToLast\MoveZero-s\MoveZeroToEnd\MoveZeroToEnd\obj\Debug\net6.0\MoveZeroToEnd.pdb
+E:\leetProblems\MoveZeroToLast\MoveZero-s\MoveZeroToEnd\MoveZeroToEnd\obj\Debug\net6.0\MoveZeroToEnd.genruntimeconfig.cache
+E:\leetProblems\MoveZeroToLast\MoveZero-s\MoveZeroToEnd\MoveZeroToEnd\obj\Debug\net6.0\ref\MoveZeroToEnd.dll
